@@ -95,6 +95,7 @@
 - [toolz](https://github.com/pytoolz/toolz) ★4823 - "A functional standard library for Python".
 - [more-itertools](https://github.com/erikrose/more-itertools) ★3839 - "More routines for operating on iterables, beyond itertools".
 - [funcy](https://github.com/suor/funcy) ★3411 - "A fancy and practical functional tools".
+- [funcy-pipe](https://github.com/iloveitaly/funcy-pipe) ★5 - "Chain funcy operators using the pipe operator"
 - [fn.py](https://github.com/kachayev/fn.py) ★3365 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py).
 - [PyFunctional](https://github.com/EntilZha/PyFunctional) ★2421 - "Python library for functional programming with collections in a data pipeline style".
 - [Pipe](https://github.com/JulienPalard/Pipe) ★2012 - "A Python library to use infix notation in Python".
